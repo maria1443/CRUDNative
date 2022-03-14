@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ricardo Morales",
+      "telefono": "3105678990",
+      "empresa": "Cacharrería mundial",
+      "correo": "Ricky@gmail.com",
+      "id": 1
+    },
+    {
+      "nombre": "Néstor ",
+      "telefono": "3105647871",
+      "empresa": "Tecnigrapas",
+      "correo": "nestorguaval@hotmail.com",
+      "id": 3
+    }
+  ]
+}
